@@ -1,0 +1,35 @@
+{
+  "stickers" : [
+    {
+      "filename" : "001.sticker"
+    },
+    {
+      "filename" : "giphy-2.sticker"
+    },
+    {
+      "filename" : "Sticker Sequence.stickersequence"
+    },
+    {
+      "filename" : "tangfen.sticker"
+    },
+    {
+      "filename" : "chipila.sticker"
+    },
+    {
+      "filename" : "applause.sticker"
+    },
+    {
+      "filename" : "papapa.sticker"
+    },
+    {
+      "filename" : "heng.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
