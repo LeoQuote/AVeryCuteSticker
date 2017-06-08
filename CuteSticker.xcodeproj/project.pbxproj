@@ -106,7 +106,7 @@
 				TargetAttributes = {
 					F4A64E2A1D169027004C9CFF = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 29PY96WP75;
+						DevelopmentTeam = LWY3F6V55K;
 						DevelopmentTeamName = "Leung Wai Ng";
 						ProvisioningStyle = Automatic;
 					};
@@ -288,10 +288,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = 29PY96WP75;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = LWY3F6V55K;
 				INFOPLIST_FILE = CuteSticker/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.cheyipai.CuteSticker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -301,10 +304,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = 29PY96WP75;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = LWY3F6V55K;
 				INFOPLIST_FILE = CuteSticker/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.cheyipai.CuteSticker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
